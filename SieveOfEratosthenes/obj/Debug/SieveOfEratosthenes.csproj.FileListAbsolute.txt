@@ -1,0 +1,1 @@
+C:\Div\Origin\Sieve-of-Eratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
